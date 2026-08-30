@@ -46,7 +46,7 @@ Insight Synthesis
 Hypothesis-Driven Execution Plan
 ```
 
-SQL files:
+## SQL files:
 
 | File | Covers |
 |---|---|
