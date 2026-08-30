@@ -149,14 +149,16 @@ Hypothesis-Driven Execution Plan
 
 ## Folder Layout
 
-​```text
+## Folder Layout
+
+```text
 olist-ecommerce-analysis/
 ├── README.md
 ├── mysql/
 ├── dashboard/
 ├── presentation/
 ├── docss/
-├── asset/
+└── asset/
 
 ## Author 
 
