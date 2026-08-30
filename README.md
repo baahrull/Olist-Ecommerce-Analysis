@@ -139,9 +139,10 @@ Hypothesis-Driven Execution Plan
 ```text
 olist-ecommerce-analysis/
 ├── README.md
-├── sql/
+├── mysql/
 ├── dashboard/
 └── deck/
+└── docss/
 ```
 
 ## Author 
