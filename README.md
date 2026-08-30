@@ -1,6 +1,6 @@
 # Olist Brazilian E-Commerce Performance Analysis (2016–2018)
-![Data Strategy](https://img.shields.io/badge/Data_Strategy-Strategic_Planning-success?style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL-Business_Analytics-Strategic_Planning-success?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Complete-success?style=for-the-badge)
+![Type](https://img.shields.io/badge/Type-Portfolio_Project-blue?style=for-the-badge)
 
 ## Overview 
 
