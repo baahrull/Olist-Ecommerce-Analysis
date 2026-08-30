@@ -73,7 +73,7 @@ SQL files:
 
 ## Live Dashboard
 
-[Open the Looker Studio dashboard](#) *(https://datastudio.google.com/reporting/0c9bb251-c3fe-4793-8ecf-18ac80927c39)*
+[Open the Looker Studio dashboard](https://datastudio.google.com/reporting/0c9bb251-c3fe-4793-8ecf-18ac80927c39) *(Looker Studio)*
 
 ![Executive Summary](dashboard/executive_summary.png)
 ![Sales Performance](dashboard/sales_performance.png)
