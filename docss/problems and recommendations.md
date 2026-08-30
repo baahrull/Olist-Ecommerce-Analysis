@@ -1,7 +1,7 @@
 ## Recommendations
 
 - **Reduce reliance on São Paulo and the top 3 categories through regional expansion and cross-selling.**
-  *Detailed Context:* High operational and revenue concentration in São Paulo and top product categories creates severe structural vulnerability. Decentralizing merchant acquisition to under-penetrated regional markets and implementing targeted cross-selling strategies will balance out market distribution and mitigate long-haul friction.
+ * *Detailed Context:* High operational and revenue concentration in São Paulo and top product categories creates severe structural vulnerability. Decentralizing merchant acquisition to under-penetrated regional markets and implementing targeted cross-selling strategies will balance out market distribution and mitigate long-haul friction.
 
 - **Shift CRM spend from acquisition toward post-purchase re-engagement within 14–30 days of delivery.**
   * *Detailed Context:* The data shows an overwhelming single-purchase rate, proving that top-of-funnel acquisition is functional but long-term retention is broken. Re-allocating marketing budgets toward automated re-engagement during the critical 14 to 30-day window post-delivery captures customer intent before it drops off.
