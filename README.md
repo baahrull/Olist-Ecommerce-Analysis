@@ -77,21 +77,21 @@ SQL files:
 
 [Click here to open the Looker Studio dashboard](https://datastudio.google.com/reporting/0c9bb251-c3fe-4793-8ecf-18ac80927c39)
 
-## Dashboard Overview
+## Dashboard Preview
 
-![Executive Summary](executive_summary.png)
+![Executive Summary](https://raw.githubusercontent.com/baahrull/Olist-Ecommerce-Analysis/main/executive%20summary.png)
 
-![Sales Performance](Screenshot_2026-08-30_at_20.47.35.png)
+![Sales Performance](https://raw.githubusercontent.com/baahrull/Olist-Ecommerce-Analysis/main/sales%20performance.png)
 
-![Customer Analysis](Screenshot_2026-08-30_at_20.48.16.png)
+![Customer Analysis](https://raw.githubusercontent.com/baahrull/Olist-Ecommerce-Analysis/main/customer%20analysis.png)
 
-![Payment Analysis](Screenshot_2026-08-30_at_20.48.45.png)
+![Payment Analysis](https://raw.githubusercontent.com/baahrull/Olist-Ecommerce-Analysis/main/payment%20analysis.png)
 
-![Delivery Performance](Screenshot_2026-08-30_at_20.49.28.png)
+![Delivery Performance](https://raw.githubusercontent.com/baahrull/Olist-Ecommerce-Analysis/main/delivery%20performance.png)
 
-![Customer Satisfaction](Screenshot_2026-08-30_at_20.49.53.png)
+![Customer Satisfaction](https://raw.githubusercontent.com/baahrull/Olist-Ecommerce-Analysis/main/customer%20satisfaction.png)
 
-![Appendix](Screenshot_2026-08-30_at_20.50.19.png)
+![Appendix](https://raw.githubusercontent.com/baahrull/Olist-Ecommerce-Analysis/main/appendix.png)
 
 ## What the Data Showed
 
