@@ -32,6 +32,7 @@ MySQL · SQL · Looker Studio · Canva
 
 ## Analysis Workflow
 
+```text
 Raw CSV (8 tables)
 ↓
 Data Import & Validation (MySQL)
@@ -45,6 +46,7 @@ Looker Studio Dashboard (6 pages)
 Insight Synthesis
 ↓
 Hypothesis-Driven Execution Plan
+```
 
 SQL files:
 
