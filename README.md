@@ -79,7 +79,7 @@ SQL files:
 
 ## Dashboard Overview
 
-![Executive Summary](Screenshot_2026-08-30_at_20.46.45.png)
+![Executive Summary](executive_summary.png)
 
 ![Sales Performance](Screenshot_2026-08-30_at_20.47.35.png)
 
