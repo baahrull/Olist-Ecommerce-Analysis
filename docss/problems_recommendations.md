@@ -1,4 +1,4 @@
-## Strategic Recommendations
+## Problems & Recommendations
 
 1.**Reduce reliance on São Paulo and the top 3 categories through regional expansion and cross-selling.**
   * *Detailed Context:* High operational and revenue concentration in São Paulo and top product categories creates severe structural vulnerability. Decentralizing merchant acquisition to under-penetrated regional markets and implementing targeted cross-selling strategies will balance out market distribution and mitigate long-haul friction.
