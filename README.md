@@ -79,10 +79,10 @@ Hypothesis-Driven Execution Plan
 
 ![Executive Summary](https://github.com/baahrull/Olist-Ecommerce-Analysis/blob/main/asset/executive_summary.png)
 ![Sales Performance](https://github.com/baahrull/Olist-Ecommerce-Analysis/blob/main/asset/sales_performance.png)
-![Customer Analysis](https://github.com/baahrull/Olist-Ecommerce-Analysis/blob/main/asset/customer%20analysis.png)
-![Payment Analysis](https://github.com/baahrull/Olist-Ecommerce-Analysis/blob/main/asset/payment%20analysis.png)
-![Delivery Performance](https://github.com/baahrull/Olist-Ecommerce-Analysis/blob/main/asset/delivery%20performance.png)
-![Customer Satisfaction](https://github.com/baahrull/Olist-Ecommerce-Analysis/blob/main/asset/customer%20satisfaction.png)
+![Customer Analysis](https://github.com/baahrull/Olist-Ecommerce-Analysis/blob/main/asset/customer_analysis.png)
+![Payment Analysis](https://github.com/baahrull/Olist-Ecommerce-Analysis/blob/main/asset/payment_analysis.png)
+![Delivery Performance](https://github.com/baahrull/Olist-Ecommerce-Analysis/blob/main/asset/delivery_performance.png)
+![Customer Satisfaction](https://github.com/baahrull/Olist-Ecommerce-Analysis/blob/main/asset/customer_satisfaction.png)
 ![Appendix](https://github.com/baahrull/Olist-Ecommerce-Analysis/blob/main/asset/appendix.png)
 
 ## What the Data Showed
