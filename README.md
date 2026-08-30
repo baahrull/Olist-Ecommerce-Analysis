@@ -79,19 +79,13 @@ SQL files:
 
 ## Dashboard Preview
 
-![Executive Summary](https://raw.githubusercontent.com/baahrull/Olist-Ecommerce-Analysis/main/executive%20summary.png)
-
-![Sales Performance](https://raw.githubusercontent.com/baahrull/Olist-Ecommerce-Analysis/main/sales%20performance.png)
-
-![Customer Analysis](https://raw.githubusercontent.com/baahrull/Olist-Ecommerce-Analysis/main/customer%20analysis.png)
-
-![Payment Analysis](https://raw.githubusercontent.com/baahrull/Olist-Ecommerce-Analysis/main/payment%20analysis.png)
-
-![Delivery Performance](https://raw.githubusercontent.com/baahrull/Olist-Ecommerce-Analysis/main/delivery%20performance.png)
-
-![Customer Satisfaction](https://raw.githubusercontent.com/baahrull/Olist-Ecommerce-Analysis/main/customer%20satisfaction.png)
-
-![Appendix](https://raw.githubusercontent.com/baahrull/Olist-Ecommerce-Analysis/main/appendix.png)
+![Executive Summary](https://github.com/baahrull/Olist-Ecommerce-Analysis/blob/main/asset/executive%20summary.png)
+![Sales Performance](https://github.com/baahrull/Olist-Ecommerce-Analysis/blob/main/asset/sales%20performance.png)
+![Customer Analysis](https://github.com/baahrull/Olist-Ecommerce-Analysis/blob/main/asset/customer%20analysis.png)
+![Payment Analysis](https://github.com/baahrull/Olist-Ecommerce-Analysis/blob/main/asset/payment%20analysis.png)
+![Delivery Performance](https://github.com/baahrull/Olist-Ecommerce-Analysis/blob/main/asset/delivery%20performance.png)
+![Customer Satisfaction](https://github.com/baahrull/Olist-Ecommerce-Analysis/blob/main/asset/customer%20satisfaction.png)
+![Appendix](https://github.com/baahrull/Olist-Ecommerce-Analysis/blob/main/asset/appendix.png)
 
 ## What the Data Showed
 
