@@ -1,7 +1,8 @@
 # Olist Brazilian E-Commerce Performance Analysis (2016–2018)
 ![Data Strategy](https://img.shields.io/badge/Data_Strategy-Strategic_Planning-success?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-Business_Analytics-success?style=for-the-badge)
 
-# Overview 
+## Overview 
 
 An end-to-end business analysis of Olist, a Brazilian e-commerce marketplace, covering 99,441 orders between 2016 and 2018 — from raw CSV files to a pilot-ready business recommendation.
 
@@ -46,17 +47,25 @@ Insight Synthesis
 Hypothesis-Driven Execution Plan
 ```
 
-## SQL files:
+## Documentation
+
+- [`docss/analysis_workflow.md`](docss/analysis_workflow.md) — the full 7-step pipeline from raw data to pilot framework
+- [`docss/data_dictionary.md`](docss/data_dictionary.md) — every raw table, the rebuilt `orders` table, and all 14+ dashboard views
+- [`docss/metric_definitions.md`](docss/metric_definitions.md) — how every KPI in the dashboard is calculated
+- [`docss/problems_recommendations.md`](docss/problems_recommendations.md) — the 5 core findings and business recommendations
+
+## SQL Files
 
 | File | Covers |
 |---|---|
-| `sql/01_data_cleaning.sql` | Row-count checks, type/encoding fixes across raw tables |
-| `sql/02_sales_and_category.sql` | Revenue trend, category performance, freight cost share |
-| `sql/03_customer_behavior.sql` | One-time vs. repeat buyers, AOV by customer type, state performance |
-| `sql/04_payment_and_installment.sql` | Payment method mix, installment distribution |
-| `sql/05_delivery_performance.sql` | On-time/late delivery, delivery days by state |
-| `sql/06_satisfaction_and_rating.sql` | Review score distribution, rating vs. delivery timing |
-| `sql/07_pilot_baseline.sql` | Pilot-zone vs. national benchmark diagnostics |
+| `mysql/01_data_cleaning.sql` | Database setup, import, and full data quality checks |
+| `mysql/02_sales_performance.sql` | Revenue trend, AOV, order growth (Q1–Q9) |
+| `mysql/03_product_performance.sql` | Category & product revenue, units sold (Q10–Q17) |
+| `mysql/04_customer_analysis.sql` | One-time vs. repeat buyers, state performance (Q18–Q25) |
+| `mysql/05_payment_analysis.sql` | Payment method mix, installment behavior (Q26–Q31) |
+| `mysql/06_delivery_performance.sql` | On-time/late delivery, delivery days by state (Q32–Q40) |
+| `mysql/07_satisfaction_analysis.sql` | Review score distribution, rating vs. delivery timing (Q41–Q48) |
+| `mysql/08_dashboard_views.sql` | 14 production-ready views powering the Looker Studio dashboard |
 
 ## Headline Numbers
 
@@ -134,17 +143,18 @@ Hypothesis-Driven Execution Plan
 4. Analyze review text alongside the numeric scores.
 5. If the pilot validates the hypothesis, roll the estimation fix out nationally.
 
+
 ## Folder Layout
 
-```text
+​```text
 olist-ecommerce-analysis/
 ├── README.md
 ├── mysql/
 ├── dashboard/
-├── deck/
+├── presentation/
 ├── docss/
 ├── asset/
-```
+​```
 
 ## Author 
 
