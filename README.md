@@ -77,8 +77,8 @@ Hypothesis-Driven Execution Plan
 
 ## Dashboard Preview
 
-![Executive Summary](https://github.com/baahrull/Olist-Ecommerce-Analysis/blob/main/asset/executive%20summary.png)
-![Sales Performance](https://github.com/baahrull/Olist-Ecommerce-Analysis/blob/main/asset/sales%20performance.png)
+![Executive Summary](https://github.com/baahrull/Olist-Ecommerce-Analysis/blob/main/asset/executive_summary.png)
+![Sales Performance](https://github.com/baahrull/Olist-Ecommerce-Analysis/blob/main/asset/sales_performance.png)
 ![Customer Analysis](https://github.com/baahrull/Olist-Ecommerce-Analysis/blob/main/asset/customer%20analysis.png)
 ![Payment Analysis](https://github.com/baahrull/Olist-Ecommerce-Analysis/blob/main/asset/payment%20analysis.png)
 ![Delivery Performance](https://github.com/baahrull/Olist-Ecommerce-Analysis/blob/main/asset/delivery%20performance.png)
