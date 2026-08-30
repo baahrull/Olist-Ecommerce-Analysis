@@ -129,11 +129,13 @@ SQL files:
 
 ## Folder Layout
 
+```text
 olist-ecommerce-analysis/
 ├── README.md
 ├── sql/
 ├── dashboard/
 └── deck/
+```
 
 ## Author 
 
