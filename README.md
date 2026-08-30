@@ -141,8 +141,9 @@ olist-ecommerce-analysis/
 ├── README.md
 ├── mysql/
 ├── dashboard/
-└── deck/
-└── docss/
+├── deck/
+├── docss/
+├── asset/
 ```
 
 ## Author 
