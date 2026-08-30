@@ -1,6 +1,10 @@
 # Olist Brazilian E-Commerce Performance Analysis (2016–2018)
 ![Status](https://img.shields.io/badge/Status-Complete-success?style=for-the-badge)
 ![Type](https://img.shields.io/badge/Type-Portfolio_Project-blue?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/Data_Analysis-success?style=for-the-badge)
 
 ## Overview 
 
