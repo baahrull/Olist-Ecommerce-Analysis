@@ -78,10 +78,13 @@ SQL files:
 [Click here to open the Looker Studio dashboard](https://datastudio.google.com/reporting/0c9bb251-c3fe-4793-8ecf-18ac80927c39)
 
 ## Dashboard Overview
-![Executive Summary](dashboard/executive_summary.png)
-![Sales Performance](dashboard/sales_performance.png)
-![Customer Analysis](dashboard/customer_analysis.png)
-![Delivery Performance](dashboard/delivery_performance.png)
+![Executive Summary](Screenshot 2026-08-30 at 20.46.45.png)
+![Sales Performance](Screenshot 2026-08-30 at 20.47.35.png)
+![Customer Analysis](Screenshot 2026-08-30 at 20.48.16.png)
+![Payment Analysis](Screenshot 2026-08-30 at 20.48.45.png)
+![Delivery Performance](Screenshot 2026-08-30 at 20.49.28.png)
+![Customer Satisfaction](Screenshot 2026-08-30 at 20.49.53.png)
+![Appendix](Screenshot 2026-08-30 at 20.50.19.png)
 
 ## What the Data Showed
 
