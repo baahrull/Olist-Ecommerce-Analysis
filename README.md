@@ -148,8 +148,6 @@ Hypothesis-Driven Execution Plan
 
 ## Folder Layout
 
-## Folder Layout
-
 ```text
 olist-ecommerce-analysis/
 ├── README.md
